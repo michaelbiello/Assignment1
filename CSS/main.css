@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  padding: 0;
 }
 
 .bluerow {
@@ -20,5 +21,14 @@ body {
    background-color: yellow;
    display: flex;
    text-align: center;
+}
 
+.image1 {
+  float: left;
+  width: 300px;
+}
+
+.image2 {
+  float: right;
+  width: 300px;
 }
