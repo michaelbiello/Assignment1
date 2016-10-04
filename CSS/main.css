@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+.bluerow {
+  background-color: lightblue;
+  display: flex;
+  margin: 20px;
+  text-align: left;
+  height: 100%
+}
+
+.prorow {
+   background-color: lightorange;
+   display: flex;
+   text-align: right;
+}
+
+.ecurow {
+   background-color: yellow;
+   display: flex;
+   text-align: center;
+
+}
