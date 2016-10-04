@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.description {
+  backgroung-color: lightblue;
+  display: flex;
+  margin: 20px;
+  height: 100%
+}
+
