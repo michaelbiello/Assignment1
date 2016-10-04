@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 
-.description {
+h1 {
   backgroung-color: lightblue;
   display: flex;
   margin: 20px;
